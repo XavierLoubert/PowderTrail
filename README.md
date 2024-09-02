@@ -59,7 +59,7 @@ git push origin feature/your-feature``
 - Open a pull request to merge your changes into the main branch.
 
 ### License
-This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
+This project is licensed under the [GNU License](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ### Contact
 For any questions or feedback, please contact:
